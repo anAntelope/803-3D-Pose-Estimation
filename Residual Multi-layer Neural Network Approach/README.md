@@ -35,7 +35,7 @@ Now, to visualize the results, simply run
 
 This will produce a visualization similar to this:
 
-![Visualization example](/imgs/experiment.png)
+![Visualization example](imgs/experiment.png)
 
 ### Training
 
