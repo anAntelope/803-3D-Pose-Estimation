@@ -67,6 +67,7 @@ You can find the detections produced by Stacked Hourglass after fine-tuning on t
 Our model is also capable of making predictions from video:
 
 Demo Video:
+
 ![](imgs/Video 3d pose estimation.gif)
 
 ### Reference
