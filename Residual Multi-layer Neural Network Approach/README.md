@@ -68,7 +68,7 @@ Our model is also capable of making predictions from video:
 
 Demo Video:
 
-![](imgs/Video 3d pose estimation.gif)
+![video](imgs/Video.gif)
 
 ### Reference
 
