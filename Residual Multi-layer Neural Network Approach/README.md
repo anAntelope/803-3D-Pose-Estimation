@@ -63,7 +63,13 @@ To test the model, decompress the file at the top level of this project, and cal
 
 You can find the detections produced by Stacked Hourglass after fine-tuning on the H3.6M dataset on [google drive](https://drive.google.com/open?id=0BxWzojlLp259S2FuUXJ6aUNxZkE).
 
-### Citation
+
+Our model is also capable of making predictions from video:
+
+Demo Video:
+![Visualization example](imgs/Video 3d pose estimation.gif)
+
+### Reference
 
 
 ```
