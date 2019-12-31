@@ -66,7 +66,7 @@ You can find the detections produced by Stacked Hourglass after fine-tuning on t
 
 Our model is also capable of making predictions from video:
 
-Demo Video:
+#### Demo Video:
 
 ![video](imgs/Video.gif)
 
