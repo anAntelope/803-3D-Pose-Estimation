@@ -44,16 +44,12 @@ To train a model with clean 2d detections, run:
 <!-- `python src/predict_3dpose.py --camera_frame --residual` -->
 `python src/predict_3dpose.py --camera_frame --residual --batch_norm --dropout 0.5 --max_norm --evaluateActionWise`
 
-This corresponds to Table 2, bottom row. `Ours (GT detections) (MA)`
 
 To train on Stacked Hourglass detections, run
 
 `python src/predict_3dpose.py --camera_frame --residual --batch_norm --dropout 0.5 --max_norm --evaluateActionWise --use_sh`
 
-This corresponds to Table 2, next-to-last row. `Ours (SH detections) (MA)`
 
-On a GTX 1080 GPU, this takes <8 ms for forward+backward computation, and
-<6 ms for forward-only computation per batch of 64.
 
 ### Pre-trained model
 
