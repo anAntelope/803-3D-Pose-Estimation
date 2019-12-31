@@ -27,7 +27,7 @@ For a quick demo, you can train for one epoch and visualize the results. To trai
 
 `python src/predict_3dpose.py --camera_frame --residual --batch_norm --dropout 0.5 --max_norm --evaluateActionWise --use_sh --epochs 1`
 
-This should take about <5 minutes to complete on a GTX 1080, and give you around 75 mm of error on the test set.
+
 
 Now, to visualize the results, simply run
 
